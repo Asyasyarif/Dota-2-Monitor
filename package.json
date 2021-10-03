@@ -1,0 +1,19 @@
+{
+  "name": "Dota 2 Monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dota2-gsi": "^1.0.2",
+    "socket.io": "^4.2.0",
+    "socket.io-client": "^4.2.0"
+  },
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
